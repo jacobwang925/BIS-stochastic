@@ -1,4 +1,9 @@
-# BIS
+# BIS-stochastic
+
+Stochastic Safe Control implementation on the BIS platform.
+
+The original BIS repo: https://github.com/intelligent-control-lab/BIS
+
 |`Document`  |`Version`  |`Tutorial`|
 | :---:      | :---:     | :---:    |
 | [<img src="https://img.shields.io/badge/docs-latest-blue">](https://wei-tianhao.github.io/BIS/build/html/index.html) | [<img src="https://img.shields.io/badge/version-1.0-brightgreen">]() | [<img src="https://img.shields.io/badge/tutorial-ipynb-red">](https://github.com/intelligent-control-lab/BIS/blob/master/tutorial.ipynb) |
@@ -65,7 +70,7 @@ Please cite these papers in your publications if it helps your research:
       journal={arXiv preprint arXiv:1908.01883},
       year={2019}
     }
-
+    
     @inproceedings{liu2014control,
       Author = {Liu, Changliu and Tomizuka, Masayoshi},
       Booktitle = {Proceedings of the ASME Dynamic Systems and Control Conference (DSCC)},
